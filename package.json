@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "e1": "node ./e1-simple.js"
+    }
+}
