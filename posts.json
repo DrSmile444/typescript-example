@@ -3,61 +3,61 @@
         {
             "id": 1,
             "name": "Intro to course",
-            "lector": "Alex",
+            "mentor": "Alex",
             "categories": ["Course", "Frontend", "JS"]
         },
         {
             "id": 2,
             "name": "DOM Events",
-            "lector": "Dima",
+            "mentor": "Dima",
             "categories": ["Course", "Frontend", "JS"]
         },
         {
             "id": 3,
             "name": "Tooling",
-            "lector": "Alex",
+            "mentor": "Alex",
             "categories": ["Course", "Frontend", "CSS", "HTML"]
         },
         {
             "id": 4,
             "name": "Async, Promises",
-            "lector": "Taras",
+            "mentor": "Taras",
             "categories": ["Course", "Frontend", "JS"]
         },
         {
             "id": 5,
             "name": "ES6 imports",
-            "lector": "Oleh",
+            "mentor": "Oleh",
             "categories": ["Course", "Frontend", "JS"]
         },
         {
             "id": 6,
             "name": "Semantics",
-            "lector": "Oleh",
+            "mentor": "Oleh",
             "categories": ["Course", "Frontend", "CSS", "HTML"]
         },
         {
             "id": 7,
             "name": "ReactJS",
-            "lector": "Myron",
+            "mentor": "Myron",
             "categories": ["Course", "Frontend", "JS"]
         },
         {
             "id": 8,
             "name": "VueJS",
-            "lector": "Oleh",
+            "mentor": "Oleh",
             "categories": ["Course", "Frontend", "JS"]
         },
         {
             "id": 9,
             "name": "Methodologies",
-            "lector": "Yana",
+            "mentor": "Yana",
             "categories": ["Course", "Frontend", "JS"]
         },
         {
             "id": 10,
             "name": "Typescript",
-            "lector": "Dima",
+            "mentor": "Dima",
             "categories": ["Course", "Frontend", "JS"]
         }
     ]

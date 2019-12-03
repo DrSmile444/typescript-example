@@ -7,7 +7,7 @@
 export interface Post {
     id: number;
     name: string;
-    lector: string;
+    mentor: string;
     categories: Categories[];
 }
 

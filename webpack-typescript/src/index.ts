@@ -18,6 +18,6 @@ console.log(posts.posts[0]);
 const newPost: Post = {
   categories: [Categories.COURSE],
   id: 1,
-  lector: 'Dima',
+  mentor: 'Dima',
   name: 'Typescript',
 };
