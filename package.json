@@ -1,5 +1,8 @@
 {
     "scripts": {
-        "e1": "node ./e1-simple.js"
+        "e1": "node ./e1-simple.js",
+        "e2": "node ./e2-remap.js",
+        "e3": "node ./e3-get-posts.js",
+        "e4": "node ./e4-nested.js"
     }
 }
